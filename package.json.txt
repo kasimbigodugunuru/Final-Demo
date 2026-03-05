@@ -1,0 +1,17 @@
+package.json
+{
+  "name": "final-demo",
+  "version": "1.0.0",
+  "description": "Final Demo Deployment Project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "22.x"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
